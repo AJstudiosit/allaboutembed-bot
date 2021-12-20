@@ -9,7 +9,7 @@ Personalizza titoli, field, footer e colori!
 
 **COMANDI**
 
-.prefix | Modifica il prefisso dei comandi, di default è '.'
-.embed-chan | Crea un nuovo canale di gestione embed
-.embed | Inizia la fase di creazione di un embed
-.send | Invia l'embed creato
+- .prefix | Modifica il prefisso dei comandi, di default è '.'
+- .embed-chan | Crea un nuovo canale di gestione embed
+- .embed | Inizia la fase di creazione di un embed
+- .send | Invia l'embed creato
