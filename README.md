@@ -15,7 +15,7 @@ Personalizza titoli, field, footer, author e colori!
 
 Per modificare TOKEN, prefix ed altre impostazioni modifica il file config.py 
 
-*Il codice è open source ed è soggetto ai Diritti d'Autore, è modificabile a patto che la modifica sia disponibile a TUTTI su github.com . Al contrario, in nessun modo il codice può essere privato dai crediti al creatore (presenti in questo messaggio). I crediti devono essere accessibili da tutti tramite: descrizione del bot O comando di un bot O messaggio con crediti in un canale contenente solo esso accessibile a tutti e che contenga la parola 'credits'.*
+*Il codice è open source ed è soggetto ai Diritti d'Autore, è modificabile a patto che la modifica sia disponibile a TUTTI su github.com (con ovvia menzione al creatore). Al contrario, in nessun modo il codice può essere privato dai crediti al creatore (presenti in questo messaggio). I crediti devono essere accessibili da tutti tramite: descrizione del bot O comando di un bot O messaggio con crediti in un canale contenente solo esso accessibile a tutti.*
 
 # READ ME - AAEmbed (EN)
 
@@ -34,4 +34,4 @@ Customize titles, fields, footers, authors and colors!
 
 To modify TOKEN, prefix and other settings modify the config.py file 
 
-*The code is open source and is subject to Copyright, it can be modified as long as the modification is available to EVERYONE on github.com. On the contrary, in no way can the code be deprived of the credits to the creator (present in this message). Credits must be accessible by all through: description of the bot OR command of a bot OR message with credits in a channel containing only it accessible to all and containing the word 'credits'.*
+*The code is open source and is subject to Copyright, it can be modified as long as the modification is available to EVERYONE on github.com (with obvious mention to the creator). On the contrary, in no way can the code be deprived of the credits to the creator (present in this message). Credits must be accessible by all through: description of the bot OR command of a bot OR message with credits in a channel containing only it accessible to all.*
